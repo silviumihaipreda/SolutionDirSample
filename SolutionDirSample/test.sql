@@ -1,0 +1,7 @@
+﻿CREATE FUNCTION [dbo].[test]
+()
+RETURNS INT
+AS
+BEGIN
+	RETURN 1;
+END
